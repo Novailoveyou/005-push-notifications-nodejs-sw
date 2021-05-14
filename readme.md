@@ -1,4 +1,4 @@
-# Push Notifications Using Node.js & Service Worke
+# Push Notifications Using Node.js & Service Worker
 
 ## About
 
